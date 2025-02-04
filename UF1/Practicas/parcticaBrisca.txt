@@ -1,0 +1,13 @@
+
+Printf Inicial  OKOKOKOKOKOK
+
+
+Final de turno
+
+
+Meter Carta Jugada en VectorCartaGanada
+
+
+Bucle Principal
+
+Cuando queden pocas cartas mover la de los jugadores hacia al lado y restar qtt-1 y asi hasta que qtt==0 y entonces se acaba el juego por al funcion de acabarBucle();

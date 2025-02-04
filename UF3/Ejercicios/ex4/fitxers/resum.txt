@@ -1,0 +1,7 @@
+Contingut Fitxer a.txt
+a
+b c
+Contingut Fitxer b.txt
+Bon dia
+Bon hora
+Contingut Fitxer iker.txt

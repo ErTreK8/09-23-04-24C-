@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "llibreriapropia.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "rlutil.h": "c",
+        "time.h": "c",
+        "stdbool.h": "c",
+        "llibreriaexercici.h": "c"
+    }
+}

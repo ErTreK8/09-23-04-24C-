@@ -1,0 +1,60 @@
+Grip
+Debilitat
+----------
+Grip
+Febre
+----------
+Grip
+Malestar general
+----------
+Tosferina
+Congestio nasal
+----------
+Tosferina
+Febre
+----------
+Tosferina
+Tos
+----------
+Tosferina
+Apnees
+----------
+Otitis
+Mal d'oïda
+----------
+Otitis
+Febre
+----------
+Otitis
+Vertigen
+----------
+Bronquitis
+Tos
+----------
+Bronquitis
+Febre
+----------
+Cancer de mama
+Bony mama
+----------
+Cancer de mama
+Bony aixella
+----------
+Cancer de mama
+Augment mama
+----------
+Cancer de mama
+Enfonsament del mugro
+----------
+Arritmies
+Palpitacions
+----------
+Arritmies
+Marejos
+----------
+Arritmies
+Sincopes
+----------
+Arritmies
+Dolor toracic
+----------

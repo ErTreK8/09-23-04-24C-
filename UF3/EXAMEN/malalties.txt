@@ -1,0 +1,38 @@
+Grip
+3
+Debilitat (8)
+Febre (9)
+Malestar general (5)
+----------
+Tosferina
+4
+Congestio nasal (8)
+Febre (4)
+Tos (4)
+Apnees (9)
+----------
+Otitis
+3
+Mal d'oïda (9)
+Febre (10)
+Vertigen (4)
+----------
+Bronquitis
+2
+Tos (9)
+Febre (6)
+----------
+Cancer de mama
+4
+Bony mama (10)
+Bony aixella (10)
+Augment mama (7)
+Enfonsament del mugro (8)
+----------
+Arritmies
+4
+Palpitacions (9)
+Marejos (4)
+Sincopes (6)
+Dolor toracic (8)
+----------

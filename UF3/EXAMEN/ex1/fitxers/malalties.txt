@@ -1,0 +1,38 @@
+Grip
+3
+Debilitat
+Febre
+Malestar general
+----------
+Tosferina
+4
+Congestio nasal
+Febre
+Tos
+Apnees
+----------
+Otitis
+3
+Mal d'oïda
+Febre
+Vertigen
+----------
+Bronquitis
+2
+Tos
+Febre
+----------
+Cancer de mama
+4
+Bony mama
+Bony aixella
+Augment mama
+Enfonsament del mugro
+----------
+Arritmies
+4
+Palpitacions
+Marejos
+Sincopes
+Dolor toracic
+----------

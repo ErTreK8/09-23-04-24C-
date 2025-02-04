@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h> 
+#include <stdbool.h> 
+#include "rlutil.h"
+#include "llibreriaPropia.h"
+#include "llibreriaExercici.h"
+
+void acabament (void)
+{
+	printf("\nPrem una tecla per finalitzar");
+	getch();
+}
+
+//rep un minim que aceptamos i retorna un numeros superior o igual a aquest minim
+//0  -->    >=0
+int demanaNumUnLimitInt(int minim)
+{
+    int n;
+    do
+    {
+       scanf("%d",&n);
+       if (n<minim)
+       {
+            printf("Introdueix un numero superior o igual a %d: ",minim);
+       }
+    } while (n<minim);
+    return n;
+}

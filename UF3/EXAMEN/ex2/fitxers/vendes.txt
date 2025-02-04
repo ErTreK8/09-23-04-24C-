@@ -1,0 +1,17 @@
+ID_Linia,Nombre_Producto,Cantidad_Vendida,Precio_Unitario,Fecha_Venta
+1090,Camiseta de coto,10,15.50,2024-01-05
+1091,Sabates esportives,5,20.75,2024-01-10
+1092,Pantalons texans,20,10.25,2024-01-15
+1093,Jaqueta de cuir,15,30.00,2024-01-20
+1094,Gorra de beisbol,8,18.50,2024-01-25
+1095,Sabates esportives,12,22.00,2024-02-05
+1096,Bossa de ma,30,9.75,2024-02-10
+1097,Rellotge,25,27.50,2024-02-15
+1098,Pantalons texans,18,14.20,2024-03-01
+1099,Pantalons texans,21,33.00,2024-03-05
+10100,Sabates esportives,9,21.75,2024-03-10
+10101,Smartwatch,16,12.80,2024-03-20
+10102,Camiseta de coto,22,16.00,2024-03-25
+10103,Maleti de negocis,14,28.50,2024-04-05
+10104,Ampolla de perfum,7,11.75,2024-04-10
+10105,Smartwatch,23,16.80,2024-08-05

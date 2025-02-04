@@ -1,0 +1,8 @@
+dam1
+b
+dam2
+b
+asix1
+c
+asix2
+d
